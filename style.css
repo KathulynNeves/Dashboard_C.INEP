@@ -110,6 +110,7 @@
   justify-content: space-between;
   gap: 20px;
   padding: 11px 0px 11px 80px;
+  color: #fff;
 }
 @media (max-width: 991px) {
   .div-7 {
@@ -160,7 +161,7 @@
 }
 .div-10 {
   margin-top: -50px;
-  height: 300px;
+  height: 330px;
   border-radius: 1.838px;
   background-color: #2c65b6;
   padding: 0px 25px 17px 80px;
@@ -218,7 +219,7 @@
   border-radius: 1.734px;
   background-color: #2c65b6;
   display: flex;
-  width: 100%;
+  width: 335px;
   height: 230px;
   flex-grow: 1;
   flex-direction: column;
@@ -300,7 +301,7 @@
   flex-grow: 1;
   justify-content: space-between;
   gap: 20px;
-  width: 100%;
+  width: 335px;
   margin: 0 auto;
   padding: 24px 0 9px;
 }
@@ -374,7 +375,7 @@ li button{
   border: none;
 }
 .imgPrev{
-  margin-top: 271px;
+  margin-top: 206px;
   margin-left: 90px;
   width: 70%;
   opacity: 50%;
@@ -395,7 +396,7 @@ li button{
   margin-top: 70%;
 }
 .legend{
-  margin-top: 85%;
+  margin-top: 70%;
 }
 h6{
   color: #fff !important;
@@ -469,4 +470,72 @@ label{
 .filtro{
   margin-left: 110px;
   margin-top: 30px;
+}
+
+#myChart{
+  height: 300px !important;
+  margin-left: -45px;
+}
+.TGraf{
+  color: #fff;
+  font-size: 15px !important;
+  margin-left: 70px;
+}
+
+#Chart{
+  color: #ffff !important;
+  width: 100 !important;
+  height: 150px !important;
+  margin-top: 30px;
+  margin-left: -45px;
+}
+
+#Chart3{
+  width: 170px !important;
+  height: 170px !important;
+  margin-left: 60px;
+}
+
+#Chart4{
+  width: 150 !important;
+}
+
+#Chart5{
+  margin-left: 55px !important;
+  width: 200px !important;
+  height: 190px !important;
+}
+.TGraf2{
+font-size: 12px !important;
+margin-left: -35px;
+}
+
+.TGraf3{
+  margin-left: -295px !important;
+  font-size: 11.5px !important;
+  margin-top: 190px;
+
+  }
+
+.TGraf4{
+  margin-top: 180px !important;
+  margin-right: 20px;
+  margin-left: -333px;
+  font-size: 12.5px !important;
+}
+
+  .TGraf5{
+    margin-left: -10px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px !important;
+  }
+
+a{
+  color: pink;
+}
+.Titulo{
+  margin-top: 90px;
+  font-weight: bold;
+  color: #2C65B6;
 }
